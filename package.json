@@ -1,6 +1,6 @@
 {
   "name": "sky-puppy-checker-mongodb",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A Sky Puppy checker for mongodb",
   "main": "./src/index.js",
   "scripts": {
